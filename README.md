@@ -1,1 +1,1 @@
-It needs to be run in a Pytorch environment
+It needs to be run in Pytorch environment
